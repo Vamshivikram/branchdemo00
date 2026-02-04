@@ -1,2 +1,4 @@
-# branchdemo
-# branchdemo
+# Branch Demo
+
+This repository is for practicing Git branches.
+
